@@ -1,0 +1,20 @@
+body{background:#cf9047;
+padding: auto;}
+.haut {display: flex;
+justify-content: center}
+h1{color:#341806;
+font-family:fantasy;
+font-size: xxx-large;}
+p{color:#341806;
+font-family: monospace; 
+font-size: x-large;}
+.cafe{border: 10px solid;
+	display:inline-flex;
+	color:#633920;
+	margin-left: 190px} 
+.recette{column-count:2;
+width:1200px;
+height:500px}
+.boutique{width:200px;
+	height:50px ;
+	background:transparent;
