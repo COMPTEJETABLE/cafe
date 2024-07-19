@@ -15,6 +15,7 @@ font-size: x-large;}
 .recette{column-count:2;
 width:1200px;
 height:500px}
-.boutique{width:200px;
-	height:50px ;
-	background:transparent;
+.cafetiere{display: flex;
+justify-content:space-evenly;
+background-color:#623118 ;
+}
